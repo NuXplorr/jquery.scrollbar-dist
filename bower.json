@@ -1,0 +1,10 @@
+{
+	"name": "jquery-dist",
+	"main": [
+	  "jquery.scrollbar.js",
+	  "jquery.scrollbar.css"
+	],
+	"ignore": [
+		"package.json"
+	]
+}
